@@ -10,15 +10,15 @@ This tool allows you to fetch and display the transcript of a YouTube video in a
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
-- git clone https://github.com/yourusername/youtube-transcript-generator.git
+- git clone https://github.com/MuhammadAhmed-0/youtube-transcript-generator.git
 - cd youtube-transcript-generator
 
-2. Install the necessary libraries:
+### 2. Install the necessary libraries:
 - pip install streamlit youtube-transcript-api
 
-3. Run the application:
+### 3. Run the application:
 - streamlit run youtube-transcript-generator.py
 OR
 - python -m streamlit run youtube-transcript-generator.py
